@@ -64,7 +64,7 @@ background-size: cover;
 height:300px;
 display:none;  
 }
-#loungehero {
+#loungehero{
 background-image: url(yogalounge.jpg);  
 background-repeat: no-repeat;  
 background-size: cover;
@@ -93,7 +93,7 @@ section {
 padding-left: 2em;
 padding-right: 2em;  
 }  
-#mathero, #loungehero {
+#mathero, #loungehero{
 display:block;
 padding-bottom:1em;
 }  
